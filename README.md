@@ -7,13 +7,22 @@ Usage Instructions:
 1) Download the Files for the ChromeExtension
 
 2) Edit the whatsapp.js file and edit line no. 39 to set the whatsapp ids you want to receive notifications for.
+
 3) Install Chrome Extension in Developer Mode.
+
 3.a) Open Chrome
+
 3.b) Go to Settings using the 3 vertical dots on the extreme right
+
 3.c) Click on the extensions link on left side.
+
 3.d) Check the "Developer Mode" checkbox.
-3.e) Click on "Load Unpacked Extensions" button, it will open a Browse Directory dialog, select the Folder where you have extracted the downloaded files.
+
+3.e) Click on "Load Unpacked Extensions" button, it will open a Browse Directory 
+dialog, select the Folder where you have extracted the downloaded files.
+
 3.f) once done, click on "Enabled" checkbox if not already checked.
+
 3.g) Refresh or Reload the whatsapp web tab to see the notifications in effect.
 
 
