@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+
+  "name": "WhatsApp Selective Notifier",
+  "description": "This extension allows to control notifications from special people only.",
+  "version": "1.1",
+  "author" : "@mufaddalm",
+
+  "background":{
+    "scripts" :["popup.js"],
+    "persistent":false
+  },
+
+ 
+
+  "content_scripts":[{
+    "matches":["https://web.whatsapp.com/*"],
+    "js":["whatsapp.js"]
+  }
+  ],
+  
+  "permissions": [
+    "tabs",
+    "notifications"
+  ],
+
+  "web_accessible_resources":[
+    "alert.png"
+  ]
+}
