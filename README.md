@@ -5,6 +5,7 @@ This is a Simple project out of curiosity and needs to fix the distraction probl
 
 Usage Instructions:
 1) Download the Files for the ChromeExtension
+
 2) Edit the whatsapp.js file and edit line no. 39 to set the whatsapp ids you want to receive notifications for.
 3) Install Chrome Extension in Developer Mode.
 3.a) Open Chrome
