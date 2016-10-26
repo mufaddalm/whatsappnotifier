@@ -4,6 +4,7 @@ A Simple Minimal Chrome Extension for Selective Whatsapp Notifications until wha
 This is a Simple project out of curiosity and needs to fix the distraction problem with also selectively getting updates on messages from special selected people.
 
 Usage Instructions:
+
 1) Download the Files for the ChromeExtension
 
 2) Edit the whatsapp.js file and edit line no. 39 to set the whatsapp ids you want to receive notifications for.
@@ -27,6 +28,7 @@ dialog, select the Folder where you have extracted the downloaded files.
 
 
 Note: 
+
 Windows User: 
 The notifications work without issues.
 
