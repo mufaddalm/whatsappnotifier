@@ -35,3 +35,4 @@ The notifications work without issues.
 Mac OS User:
 Currently Chrome on Mac OS has issues with notifications if the browser window is in full screen mode. The notification only works if the chrome window is in main screen and NOT fullscreen.
 
+Please feel free to make changes and enhance it.
