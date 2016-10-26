@@ -7,7 +7,9 @@ Usage Instructions:
 
 1) Download the Files for the ChromeExtension
 
-2) Edit the whatsapp.js file and edit line no. 39 to set the whatsapp ids you want to receive notifications for.
+2) Edit the whatsapp.js file and edit line no. 37 to set the whatsapp ids you want to receive notifications for.
+
+e.g node[0].title=='Mufaddal Mohammed' change it to node[0].title=='Name of the Person or Group you want'
 
 3) Install Chrome Extension in Developer Mode.
 
